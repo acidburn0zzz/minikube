@@ -8,7 +8,7 @@ require (
 	github.com/Delta456/box-cli-maker/v2 v2.2.2
 	github.com/GoogleCloudPlatform/docker-credential-gcr v0.0.0-20210713212222-faed5e8b8ca2
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.4.0
-	github.com/Microsoft/hcsshim v0.8.17 // indirect
+	github.com/Microsoft/hcsshim v0.8.25 // indirect
 	github.com/Parallels/docker-machine-parallels/v2 v2.0.1
 	github.com/VividCortex/godaemon v1.0.0
 	github.com/blang/semver/v4 v4.0.0
@@ -77,7 +77,7 @@ require (
 	golang.org/x/mod v0.5.1
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/text v0.3.7
 	gonum.org/v1/plot v0.11.0
@@ -111,7 +111,7 @@ require (
 	git.sr.ht/~sbinet/gg v0.3.1 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/MakeNowJust/heredoc v0.0.0-20170808103936-bb23615498cd // indirect
-	github.com/Microsoft/go-winio v0.5.0 // indirect
+	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/VividCortex/ewma v1.1.1 // indirect
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b // indirect
 	github.com/aws/aws-sdk-go v1.38.49 // indirect
@@ -119,8 +119,8 @@ require (
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/containerd/cgroups v1.0.1 // indirect
-	github.com/containerd/containerd v1.5.2 // indirect
+	github.com/containerd/cgroups v1.0.3 // indirect
+	github.com/containerd/containerd v1.5.18 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.7.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -151,7 +151,7 @@ require (
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
 	github.com/hashicorp/go-version v1.2.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/imdario/mergo v0.3.11 // indirect
+	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -160,7 +160,7 @@ require (
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
+	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/miekg/dns v1.1.41 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.0.0 // indirect
@@ -171,7 +171,7 @@ require (
 	github.com/moby/term v0.0.0-20210610120745-9d4ed1856297 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/opencontainers/image-spec v1.0.1 // indirect
+	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opencontainers/runc v1.0.2 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.0-beta.8 // indirect
